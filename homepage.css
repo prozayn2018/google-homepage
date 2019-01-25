@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+
+#about{
+  color black;
+  font-family: "arial,sans-serif";
+  font-weight: 140;
+  position: fixed;
+  left: 50px;
+  transform: translate(-50%, -50%);
+
+}
+
+#store{
+  color: black;
+  font-family: "arial,sans-serif";
+  font-weight: 120;
+  position: fixed;
+  left: 110px;
+  transform: translate(-50%, -50%);
+
+}
+
+#gmail{
+  color: black;
+  font-family: "arial,sans-serif";
+  font-weight: 120;
+  position: fixed;
+  right: 250px;
+  transform: translate(-50%, -50%);
+
+}
+
+#images{
+
+    color: black;
+    font-family: "arial,sans-serif";
+    font-weight: 120;
+    font-size: 13px;
+    position: fixed;
+    right: 190px;
+    transform: translate(-50%, -50%);
+
+  }
+
+
+.center{
+
+  position: fixed;
+    left: 47%;
+    top: 25%;
+    transform: translate(-50%, -50%);
+    width: 280px;
+    height; auto;
+
+}
+
+.signin{
+
+  position: absolute;
+      top: 20px;
+      right: 0px;
+      width: 150px;
+      height; auto;
+
+}
+
+.square{
+  position: fixed;
+  height: auto;
+  width: 25px;
+  right: 165px;
+  top: 27px;
+}
+
+.input{
+
+  position: fixed;
+    left: 47%;
+    top: 33.5%;
+    transform: translate(-50%, -50%);
+    width: 440px;
+    height; auto;
+    padding: 12px;
+    opacity: 0.5;
+    box-shadow: 10px 10px 5px;
+    background-image: url('darkmic.png');
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: 430px;
+    resize-none;
+}
+
+#button1{
+
+    position: fixed;
+    left: 40.5%;
+    font-family: "arial,sans-serif";
+    font-weight: bold;
+    color: grey;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    width: 120px;
+    height; auto;
+    font-size: 14px;
+    padding:7px 7px;
+    background-color: #EFEFEE;
+    border-style: none;
+
+
+}
+
+#button2{
+
+    position: fixed;
+    left: 54.5%;
+    color: grey;
+    font-family: "arial,sans-serif";
+    font-weight: bold;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    width: 150px;
+    height; auto;
+    font-size: 14px;
+    padding:7px 7px;
+    background-color: #EFEFEE;
+    border-style: none;
+
+
+
+
+
+
+}
